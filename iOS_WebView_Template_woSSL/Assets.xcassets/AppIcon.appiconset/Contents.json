@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "iOS_free_icons_sqrpng.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
